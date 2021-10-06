@@ -9,7 +9,6 @@ In this lab, you will learn how to:
 
 This time, the workspace looks a little different:
 * `Makefile` - Configuration for `make`, which you will be using instead of `g++` to compile code today.
-* `.replit` - Configuration for the run button on Replit.
 * `math.cpp` - Your code goes here.
 * `math.h` - Header file for `math.cpp`, already written for you.
 * `main.cpp` - Contains main function if you want to run the functions in `math.cpp`.
