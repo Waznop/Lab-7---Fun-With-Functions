@@ -98,7 +98,7 @@ Write the `nth_root` function that does the following given two int inputs x and
 nth_root(8, 3) -> 2
 nth_root(10, 3) -> 2
 nth_root(5, -2) -> -1
-nth_root (-3, 4) -> -1
+nth_root(-3, 4) -> -1
 ```
 
 ## Part 3: `dist`
